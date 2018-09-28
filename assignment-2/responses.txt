@@ -1,0 +1,7 @@
+# responses.txt
+Data travels on the internet from a laptop that is connected
+through wifi that then connects to an internet server that
+then connects thousands of networks world wide.
+IP is also known as the internet protocol
+DNS is known as the Domain Name system which recognizes names such
+as www.dogs.com as the corresponding address such as 178.234.23.200

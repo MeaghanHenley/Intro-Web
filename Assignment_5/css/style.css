@@ -1,6 +1,6 @@
 body {
   font-family: Courier New cursive;
-  background-color: rgb (254, 223, 83);
+  background-color: rgb(254, 223, 83);
 }
 
 h1 {
@@ -22,7 +22,7 @@ h1 {
 }
 p {
   color: rgb(254, 223, 83);
-  font-size: 50px;
+  font-size:50px;
   font-style: normal;
   text-align: center;
 
@@ -34,6 +34,6 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width:25%;
 
 }

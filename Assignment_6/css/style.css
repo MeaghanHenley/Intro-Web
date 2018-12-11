@@ -9,10 +9,14 @@
     text-decoration:underline;
     color: inherit;
   }
-
 }
 .text-container {
   background-color: #88ad77;
   padding: 4em;
   margin: 3em;
+}
+p {
+   font-family: 'FeedjiqueRegular';
+   font-weight: normal;
+   font-style: normal;
 }

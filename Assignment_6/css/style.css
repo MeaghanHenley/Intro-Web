@@ -9,7 +9,7 @@
 
   p, a {
     margin-bottom: 2em;
-    text-decoration:underline;
+    text-decoration:none;
     color: inherit;
   }
 }

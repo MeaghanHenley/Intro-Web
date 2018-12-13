@@ -6,15 +6,9 @@
      font-weight: normal;
      font-style: normal;
   }
-
-  p, a {
-    margin-bottom: 2em;
-    text-decoration:none;
-    color: inherit;
-  }
-}
-.text-container {
-  background-color: #88ad77;
-  padding: 4em;
-  margin: 3em;
+#title {
+  font-family: {
+   font-family: 'FeedjiqueRegular';
+   font-weight: normal;
+   font-style: normal;
 }

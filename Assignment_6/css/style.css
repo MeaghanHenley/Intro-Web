@@ -1,11 +1,12 @@
 
-  body {
+  #ex{
     background-color: rgb(198, 238, 239);
 
      font-family: 'FeedjiqueRegular';
      font-weight: normal;
      font-style: normal;
   }
+
 #title {
 font-family:{
    font-family: 'OuroborosRegular';

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>About</title>
+<title> About </title>
   <style media="screen">
 
     body {
@@ -13,9 +13,9 @@
 </head>
   <body>
 <p>
-<a href="../project-2/pages/about.html"> About</a><br />
-<a href="../project-2/pages/contact.html"> Contact</a><br />
-<a href="../project-2/index.html"> Main </a><br />
+<a href="./project-2/pages/about.html"> About</a><br />
+<a href="./project-2/pages/contact.html"> Contact</a><br />
+<a href="./project-2/index.html"> Main </a><br />
 </p>
 </body>
 <body>

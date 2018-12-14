@@ -1,15 +1,16 @@
+body{
+  background-color: rgb(198, 238, 239);
 
+}
   #ex{
-    background-color: rgb(198, 238, 239);
 
-     font-family: 'FeedjiqueRegular';
+    font-family: 'PT Sans', sans-serif;
      font-weight: normal;
      font-style: normal;
   }
 
 #title {
-font-family:{
-   font-family: 'OuroborosRegular';
+   font-family: 'OuroborosRegular' sans-serif;
    font-weight: normal;
    font-style: normal;
 }

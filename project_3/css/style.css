@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Montserrat');
+
+body, html{
+  height: auto;
+  margin: 0;
+  font-family:'Major Mono Display', monospace;
+}
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+}
